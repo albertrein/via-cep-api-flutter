@@ -1,4 +1,4 @@
-#Sun Nov 21 00:19:12 GMT 2021
-base.0=/home/developer/workspace/web_service_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Sun Nov 21 01:06:22 GMT 2021
+base.0=/home/developer/workspace/via-cep-api-flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

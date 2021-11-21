@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/developer/workspace/web_service_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "outputFile": "/home/developer/workspace/via-cep-api-flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
             "map": [
                 {
                     "source": "/home/developer/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/values-be/values-be.xml",
